@@ -12,7 +12,7 @@ This project explores a real-world dataset of 5,000 students to uncover patterns
 - **Records**: 5,000 students
 - **Format**: CSV
 
-### Features Summary:
+## Features Summary
 - **Identifiers**: `Student_ID`, `First_Name`, `Last_Name`, `Email`
 - **Demographics**: `Gender`, `Age`, `Department`, `Parent_Education_Level`, `Family_Income_Level`
 - **Academic Performance**: `Attendance (%)`, `Midterm_Score`, `Final_Score`, `Assignments_Avg`, `Quizzes_Avg`, `Participation_Score`, `Projects_Score`, `Total_Score`, `Grade`
